@@ -1,16 +1,23 @@
 ## Hi there 👋
+### I'm Anastasia, QA automation engineer.
 
-<!--
-**stasechka11/stasechka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I have 3 years of experience as a QA in an international company. I'm experienced in writing test documentation, manual testing (functional, regression, integration), as well as automated testing in Java.
+I constantly improving my skills and mastering automated testing taking different online courses.
 
-Here are some ideas to get you started:
+## My technology stack
+Java, Maven/Gradle, Git, JUnit, Rest Assured, Selenium, Selenide, Postman, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+**Unit tests:**
+- [Team project Netology](https://github.com/stasechka11/javaqa-team-diplom-2)
+- [Diploma project Yandex Practicum](https://github.com/stasechka11/Unit_tests_diplom)
+
+**API tests:**
+- 
+
+
+
+
+
+
