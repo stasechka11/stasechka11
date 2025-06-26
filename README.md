@@ -14,7 +14,13 @@ Java, Maven/Gradle, Git, JUnit, Rest Assured, Selenium, Selenide, Postman, SQL
 - [Diploma project Yandex Practicum](https://github.com/stasechka11/Unit_tests_diplom)
 
 **API tests:**
-- 
+- [Diploma project Yandex Practicum](https://github.com/stasechka11/API_tests_diplom)
+- [Netology task: API testing with CI intergation](https://github.com/stasechka11/rest)
+
+**UI tests:**
+- [Selenium tests](https://github.com/stasechka11/seleniumtest)
+- [Selenide tests](https://github.com/stasechka11/selenide)
+- [Page Object Pattern tests with Allure report](https://github.com/stasechka11/patterns)
 
 
 
